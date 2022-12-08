@@ -3,7 +3,7 @@ button {
   height: 80px;
   font-family: sans-serif;
   font-weight: bold;
-  border: 2px solid white;
+  border: 2px solid rgb(57, 64, 100);
   border-radius: 15px;
   margin: 5px;
   cursor: pointer;
@@ -11,16 +11,16 @@ button {
 }
 
 button:hover {
-  color: red;
-  background-color: chartreuse;
+  color: black;
+  background-color: rgb(134, 42, 19);
 }
 
 .boton-clic {
-  background-color: rgb(218, 55, 15);
+  background-color: rgb(29, 77, 61);
   color: white;
 }
 
 .boton-reiniciar {
-  background-color: blue;
+  background-color: rgb(94, 93, 29);
   color: white;
 }
