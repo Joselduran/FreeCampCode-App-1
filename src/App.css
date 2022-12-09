@@ -20,6 +20,7 @@ html,
 body {
   background-image: url(./img/Prueba2.jpg);
   background-size: cover;
+  background-color: rgb(231, 201, 164);
 }
 
 .contenedor-logo {
